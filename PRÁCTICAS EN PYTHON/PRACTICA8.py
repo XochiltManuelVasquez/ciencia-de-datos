@@ -1,4 +1,4 @@
-# Práctica 8: Clasificación de Instrucciones con KNN y Logística
+# Práctica 8: Clasificación de Intrusiones con KNN y Logística
 
 # Importar librerías
 import pandas as pd
